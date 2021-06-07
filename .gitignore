@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Tests by JetBrains
+tests.py
+
 # Database
 *.db
 
